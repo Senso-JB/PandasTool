@@ -67,7 +67,7 @@ Answer: print(df[df['Zone'].str.contains('East', case=True, na=False)])
 
     prompt_template = """
         You are a data analysis assistant using Python and pandas to analyze dataframes.
-        
+        **Always perform case-insensitive searches and disregard null values in your analysis.**
         To answer user queries, follow these steps:
         1. Understand what the user is asking about the data
         2. Plan your approach using the available tools
