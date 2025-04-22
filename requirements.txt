@@ -5,3 +5,7 @@ langchain
 langchain_experimental
 langchain-google-genai
 langchain-community
+transformers
+accelerate
+tiktoken
+langchain_ibm
