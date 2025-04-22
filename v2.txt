@@ -1,0 +1,60 @@
+
+Question1 : How many rows are there ? 
+Answer :
+There are 393 rows in the dataframe. 
+
+Question2 : what is the maximum capacity of primary chilled water pump ? 
+Answer :
+The maximum capacity of primary chilled water pump is 328.0 CMH / TR. 
+
+Question3 : what is the maximum power of exahust air 
+Answer :
+The maximum power input for equipment with 'exhaust' in the application description is 22.0 KW. 
+
+Question4 : List the unqiue application names 
+Answer :
+The unique application names are: 'CHILLED WATER PRODUCTION', 'PRIMARY CHILLED WATER PUMP', 'CONDENSER WATER PUMP', 'SECONDARY CHILLED WATER', 'FOR WATER-COOLED CONDENSER', 'FRESH AIR SUPPLY', 'EXHAUST AIR', 'FUME EXHAUST', 'PROCESS WATER', 'AIR-CONDITIONING', 'DE-HUMIDIFICATION', 'TEMPERED WATER PUMP FOR MILLS', 'CHILLED AIR COOLING'. 
+
+Question5 : Which model numbers are used for equipment in PHASE-2? 
+Answer :
+The model numbers used for equipment in PHASE-2 are: YKDGDHQ75COF-VSD, YGAS300, NK-, -, BDB 1250 TM, TDA 355, TDA 450, TDA 315, TDA 1400, VDA 1400, NB-, nan, FLB, VERTICAL, CFT 1000 CM, CFT 710, VDA 900, and VDA 1000. 
+
+Question6 : how manu applications are available ? 
+Answer :
+There are 13 unique applications available. 
+
+Question7 : Which application consumes higher energy ? 
+Answer :
+The application that consumes the highest energy is CHILLED WATER PRODUCTION, with a power input of 2960.0 KW. 
+
+Question8 : How many types of chillers found ? 
+Answer :
+There are 16 types of chillers found in the dataset. 
+
+Question9 : how many types of equipment tag are available ? 
+Answer :
+There are 378 types of equipment tag available. 
+
+Question10 : List all equipment that use a 'DIRECT FEEDER' starter type. 
+Answer :
+CHILLER-1, CHILLER-2, CHILLER-3, CHILLER-4, CHILLER-5, CHILLER-6, CHILLER-7, CHILLER-8 
+
+Question11 : How many applications falls under the Chiller Equipment tag ? 
+Answer :
+There are 8 applications associated with the Chiller Equipment tag, and all of them are for 'CHILLED WATER PRODUCTION'. 
+
+Question12 : What is the total number of chillers installed in the CHILLER PLANT ROOM? 
+Answer :
+There are 8 chillers installed in the CHILLER PLANT ROOM. 
+
+Question13 : Which equipment type has the highest power input (in kW)? 
+Answer :
+The equipment type with the highest power input is "WATER-COOLED CENTRIFUGAL CHILLER" with a total power input of 1520.0 kW. 
+
+Question14 : Which equipment serves the 'ENTIRE PLANT' area, and what are their applications? 
+Answer :
+The equipment serving the 'ENTIRE PLANT' area and their applications are: CHILLER-1 to CHILLER-8 (CHILLED WATER PRODUCTION), CHWP-1 to CHWP-6, CHWP-13 to CHWP-16 (PRIMARY CHILLED WATER PUMP), CDP-1 to CDP-5 (CONDENSER WATER PUMP), PWP-1 to PWP-3, PWP-20 (SECONDARY CHILLED WATER), and CT-1 to CT-4 (FOR WATER-COOLED CONDENSER). 
+
+Question15 : How many different equipment types are there? 
+Answer :
+There are 16 different equipment types. 

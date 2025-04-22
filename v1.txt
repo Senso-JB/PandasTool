@@ -1,0 +1,64 @@
+
+Question1 : How many rows are there ? 
+Answer :
+The hvac dataframe has 393 rows. 
+
+Question2 : what is the maximum capacity of primary chilled water pump ? 
+Answer :
+The maximum capacity is 105825.0 CMH / TR. 
+
+Question3 : what is the maximum power of exahust air 
+Answer :
+The maximum power input is 380.0 KW. 
+
+Question4 : List the unqiue application names 
+Answer :
+The unique application names are: ['CHILLED WATER PRODUCTION' 'PRIMARY CHILLED WATER PUMP'
+ 'CONDENSER WATER PUMP' 'SECONDARY CHILLED WATER'
+ 'FOR WATER-COOLED CONDENSER' 'FRESH AIR SUPPLY' 'EXHAUST AIR'
+ 'FUME EXHAUST' 'PROCESS WATER' 'AIR-CONDITIONING' 'DE-HUMIDIFICATION'
+ 'TEMPERED WATER PUMP FOR MILLS' 'CHILLED AIR COOLING'] 
+
+Question5 : Which model numbers are used for equipment in PHASE-2? 
+Answer :
+The model numbers used for equipment in PHASE-2 are: CHILLER-3, CHILLER-4, CHILLER-7, CHILLER-8, CHWP-13, CHWP-14, CHWP-15, CHWP-16, CDP-4, CDP-5, PWP-20, CT-4, BAN-F.A.FAN-11, BAN-F.A.FAN-12, BAN-F.A.FAN-13, BAN-F.A.FAN-14, BAN-F.A.FAN-15, BAN-F.A.FAN-16, BAN-F.A.FAN-17, BAN-F.A.FAN-18, BAN-F.A.FAN-19, BAN-F.A.FAN-20, BAN-E.A.FAN-47, BAN-E.A.FAN-48, BAN-E.A.FAN-49, BAN-E.A.FAN-50, BAN-E.A.FAN-51, BAN-E.A.FAN-52, BAN-E.A.FAN-53, BAN-E.A.FAN-54, BAN-E.A.FAN-55, BAN-E.A.FAN-56, BAN-E.A.FAN-57, BAN-E.A.FAN-58, BAN-E.A.FAN-59, BAN-E.A.FAN-60, BAN-F.A.FAN-21, BAN-E.A.FAN-61, BAN-F.A.FAN-22, BAN-E.A.FAN-62, BAN-F.A.FAN-23, BAN-F.A.FAN-24, BAN-F.A.FAN-25, BAN-F.A.FAN-26, BAN-F.A.FAN-27, BAN-F.A.FAN-28, BAN-E.A.FAN-63, BAN-E.A.FAN-64, BAN-E.A.FAN-65, BAN-E.A.FAN-66, BAN-E.A.FAN-67, BAN-E.A.FAN-68, BAN-E.A.FAN-23, BAN-E.A.FAN-24, BAN-E.A.FAN-25, BAN-E.A.FAN-26, BAN-E.A.FAN-27, BAN-E.A.FAN-28, BAN-E.A.FAN-29, BAN-E.A.FAN-30, BAN-E.A.FAN-31, BAN-E.A.FAN-32, BAN-E.A.FAN-33, BAN-E.A.FAN-34, BAN-E.A.FAN-35, BAN-E.A.FAN-36, BAN-E.A.FAN-37, BAN-E.A.FAN-38, BAN-E.A.FAN-39, BAN-E.A.FAN-40, BAN-E.A.FAN-41, BAN-E.A.FAN-42, BAN-E.A.FAN-43, BAN-E.A.FAN-44, BAN-E.A.FAN-45, BAN-E.A.FAN-46, PWP-21, PWP-22, PWP-25, PWP-26, CSAHU , AHU-RMS-01, AHU-RMS-02, AHU-PCR-05, AHU-PCR-06, CHWP-17, AHU-TBR-05, AHU-TBR-06, AHU-TBR-07, AHU-TBR-08, AHU-TBR-09, AHU-TBR-10, AHU-TBR-11, AHU-TBR-12, AHU-TBR-13, CHWP-18, CHWP-19, DH-3, PWP-27, PWP-28, PWP-29, PWP-30, PWP-23, PWP-24, SA-TSP-11, SA-TSP-12, SA-TSP-13, SA-TSP-14, SA-TSP-15, EX-TSP-23, EX-TSP-24, EX-TSP-25, EX-TSP-26, EX-TSP-27, EX-TSP-28, EX-TSP-29, EX-TSP-30, EX-TSP-31, EX-TSP-32, EX-TCU - 23, EX-TCU - 24, EX-TCU - 25, EX-TCU - 26, EX-TCU - 27, EX-TCU - 28, EX-TCU - 29, EX-TCU - 30, EX-TCU - 31, EX-TCU - 32, EX-TCU - 33, EX-TCU - 34, EX-TCU - 35, EX-TCU - 36, EX-TCU - 37, EX-TCU - 38, EX-TCU - 39, EX-TCU - 40, EX-TCU - 41, EX-TCU - 42, EX-TCU - 43, EX-TCU - 44, EX-TCU - 45, EX-TCU - 46, EX-TCU - 47, EX-TCU - 48, EX-TCU - 49, EX-TCU - 50, EX-TCU - 51, EX-TCU - 52, EX-TCU - 53, EX-TCU - 54, EX-TCU - 55, EX-TCU - 56, EX-TCU - 57, EX-TCU - 58, EX-TCU - 59, EX-TCU - 60, EX-TCU - 61, EX-TCU - 62, EX-TCU - 63, EX-TCU - 64, EX-TCU - 65, EX-TCU - 66, EX-TCU - 67, EX-TCU - 68, EX-TCU - 69, EX-TCU - 70, EX-TCU - 71, EX-TCU - 72, EX-TCU - 73, EX-TCU - 74, EX-TCU - 75, EX-TCU - 76, EX-TCU - 77, EX-TCU - 78, EX-TCU - 79, EX-TCU - 80, EX-TCU - 81, EX-TCU - 82, EX-TCU - 83, EX-TCU - 84, EX-TCU - 85, EX-TCU - 86, EX-TCU - 87, EX-TCU - 88, EX-TCU - 89, EX-TCU - 90, EX-TCU - 91, EX-TCU - 92, EX-TCU - 93, EX-TCU - 94, EX-TCU - 95, EX-TCU - 96, EX-TCU - 97, EX-TCU - 98, EX-TCU - 99, EX-TCU - 100, AHU-TT-03, CHWP-20. 
+
+Question6 : how manu applications are available ? 
+Answer :
+There are 13 unique applications available in the dataset. 
+
+Question7 : Which application consumes higher energy ? 
+Answer :
+CHILLED WATER PRODUCTION consumes the highest energy with a total power input of 2960.00 KW. 
+
+Question8 : How many types of chillers found ? 
+Answer :
+There are 16 types of chillers. 
+
+Question9 : how many types of equipment tag are available ? 
+Answer :
+There are 378 types of equipment tag available. 
+
+Question10 : List all equipment that use a 'DIRECT FEEDER' starter type. 
+Answer :
+The equipment that uses a 'DIRECT FEEDER' starter type are: ['CHILLER-1', 'CHILLER-2', 'CHILLER-3', 'CHILLER-4', 'CHILLER-5', 'CHILLER-6', 'CHILLER-7', 'CHILLER-8'] 
+
+Question11 : How many applications falls under the Chiller Equipment tag ? 
+Answer :
+There are 14 applications with the Chiller Equipment tag. 
+
+Question12 : What is the total number of chillers installed in the CHILLER PLANT ROOM? 
+Answer :
+There are 31 chillers installed in the CHILLER PLANT ROOM. 
+
+Question13 : Which equipment type has the highest power input (in kW)? 
+Answer :
+The equipment type with the highest power input is 'CENTRIFUGAL CHILLER', with a maximum power input of 380.0 kW. 
+
+Question14 : Which equipment serves the 'ENTIRE PLANT' area, and what are their applications? 
+Answer :
+The equipment serving the 'ENTIRE PLANT' area has the following applications: 'CHILLED WATER PRODUCTION', 'PRIMARY CHILLED WATER PUMP', 'CONDENSER WATER PUMP', 'SECONDARY CHILLED WATER', and 'FOR WATER-COOLED CONDENSER'. 
+
+Question15 : How many different equipment types are there? 
+Answer :
+There are 16 different equipment types. 

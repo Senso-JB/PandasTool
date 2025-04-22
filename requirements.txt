@@ -1,0 +1,7 @@
+pandas
+tqdm
+tabulate
+langchain
+langchain_experimental
+langchain-google-genai
+langchain-community
